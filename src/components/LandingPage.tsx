@@ -50,8 +50,8 @@ const LandingPage: React.FC<LandingPageProps> = ({ onRoleSelect }) => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <div className="text-center">
           <h1 className="text-5xl font-bold text-slate-700 mb-6 leading-tight">
-            Modern Timetable &<br />
-            <span className="text-teal-600">Attendance Solution</span><br />
+            AI Based Timetable Generation &<br />
+            <span className="text-teal-600">Smart Attendance System</span><br />
             for NEP 2020
           </h1>
           <p className="text-xl text-slate-500 mb-12 max-w-3xl mx-auto leading-relaxed">
