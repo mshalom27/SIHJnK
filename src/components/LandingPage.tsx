@@ -108,8 +108,8 @@ const LandingPage: React.FC<LandingPageProps> = ({ onRoleSelect }) => {
               <div className="text-slate-500">Conflict-Free Scheduling</div>
             </div>
             <div>
-              <div className="text-4xl font-bold text-blue-800 mb-2">50+</div>
-              <div className="text-slate-500">Institutions Using</div>
+              <div className="text-4xl font-bold text-blue-800 mb-2">Conflict-Free</div>
+              <div className="text-slate-500">Scheduling Guaranteed</div>
             </div>
             <div>
               <div className="text-4xl font-bold text-emerald-600 mb-2">24/7</div>
