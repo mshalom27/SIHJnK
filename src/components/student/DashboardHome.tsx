@@ -45,7 +45,7 @@ const DashboardHome: React.FC = () => {
   return (
     <div className="space-y-8">
       <div>
-        <h1 className="text-3xl font-bold text-slate-700">Welcome Back, John</h1>
+        <h1 className="text-3xl font-bold text-slate-700">Welcome Back, Student</h1>
         <p className="text-slate-500 mt-2">Here's your academic overview for today</p>
       </div>
 
